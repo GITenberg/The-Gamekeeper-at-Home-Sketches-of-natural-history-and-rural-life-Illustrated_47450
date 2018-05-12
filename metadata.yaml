@@ -1,4 +1,5 @@
 _repo: The-Gamekeeper-at-Home-Sketches-of-natural-history-and-rural-life-Illustrated_47450
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Whymper, Charles
@@ -6,6 +7,9 @@ contributor:
     deathdate: 1941
     gutenberg_agent_id: '43591'
     url: http://www.gutenberg.org/2009/agents/43591
+covers:
+- cover_type: archival
+  image_path: 47450-h/images/cover.jpg
 creator:
   author:
     agent_name: Jefferies, Richard
@@ -16,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/229
     wikipedia: http://en.wikipedia.org/wiki/Richard_Jefferies
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47450#The-Gamekeeper-at-Home-Sketches-of-natural-history-and-rural-life-Illustrated
 gutenberg_issued: '2014-11-24'
 gutenberg_type: Text
 identifiers:
